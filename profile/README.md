@@ -1,7 +1,7 @@
 # JENTARA: Jelajah Nusantara
 
 | Bangkit ID   | Name                               | Path                           |
-| :---         |    :----:                          |          ---:                  |
+| :---         | :----                              | :---                           |
 | M200D4KY1375 | Aldebaran Paulus Joseph            | Machine Learning               |
 | M208D4KY2574 | Al Ridho                           | Machine Learning               |
 | M200D4KY1375 | Delvin Nuryadi                     | Machine Learning               |
