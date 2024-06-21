@@ -19,3 +19,6 @@ Planning a trip is very necessary to be able to produce a trip that is certainly
 2. Mobile Development:  create a base layout for the Jentara APK, starting from UI until the logic behind it, and connect all of the components that have been provided by other divisions.
 3. Cloud Computing: Creating an API for authentication using Firebase, and implementing optimal routes, search destinations, place details, and reviews using the Google Maps API. Deploying both auth-api and ml-api using Google Cloud Run. Storing user data in Cloud Firestore.
 
+#### [Machine Learning Documentation](https://github.com/JENTARA-Jelajah-Nusantara/machine-learning/blob/main/README.md)
+#### [Cloud Computing Documentation](https://github.com/JENTARA-Jelajah-Nusantara/cloud-computing/blob/main/README.md)
+#### [Mobile Development Documentation](https://github.com/JENTARA-Jelajah-Nusantara/mobile-dev)
